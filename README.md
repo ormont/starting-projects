@@ -29,7 +29,7 @@ N2 is greater than N1.
 ---------------------------------------------------------------
 
 3. TemperatureUnitConversion:
-Write a program to convert between Celsius and Fahrenheit.
+Write a program to convert between Celsius and Fahrenheit.  The equations are below.
 
 far = celsius * 9 / 5 + 32;
 celsius = (far - 32) * 5 / 9;
